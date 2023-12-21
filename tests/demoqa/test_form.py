@@ -1,5 +1,4 @@
 import allure
-
 from qa_guru_9_12.pages.registration_page import RegistrationPage
 
 
